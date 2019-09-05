@@ -31,7 +31,7 @@ II. Superconducting Material Database (SuperCon) from this page: https://superco
 
 ===================================================
 
-II. Test Result
+III. Test Result
 
 A test result script is given in the file 'VBNN_HTc.ipynb'. It can be viewed by the link: https://github.com/ltdung/VBNN_HighTc/blob/master/VBNN_HTc.ipynb. In cases of, you find difficulty to view the file, please use: https://nbviewer.jupyter.org/
 
