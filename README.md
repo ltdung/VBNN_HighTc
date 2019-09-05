@@ -37,4 +37,9 @@ An example test script is given in the file 'test_hgp.py'. It can be run with: p
 
 References
 
-[1] GPy (since 2012) GPy: A Gaussian process framework in python. http://github.com/ SheffieldML/GPy [2] Bayer J, Osendorfer C, Diot-Girard S, Rueckstiess T, Urban S (2015) climin-a pythonic framework for gradient-based function optimization. TUM, Tech Rep
+[1] J. Shi, J. Chen, J. Zhu, S. Sun, Y. Luo, Y. Gu, and Y. Zhou, “ZhuSuan:A library for Bayesian deep learning,” arXiv preprint arXiv:1709.05870, 2017.
+
+[2] J.  Drugowitsch,  “Variational  bayesian  inference  for  linear  and  logisticregression,”arXiv preprint arXiv:1310.5438, 2013
+
+[3] D. P. Kingma and M. Welling, “Auto-encoding variational bayes,” arXivpreprint arXiv:1312.6114, 2013
+
