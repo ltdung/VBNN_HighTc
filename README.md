@@ -1,5 +1,6 @@
-Hierarchical Gaussian Process Classifier (HGP)
-This folder contains the Python implementation of the HGP model presented in the submitted manuscript "A Scalable Hierarchical Gaussian Process Classifier".
+## Variational Bayesian Neural Network (VBNN) for Critical Temperature (Tc) Predictive Model
+
+This folder contains the Python implementation of the VBNN model presented in the submitted manuscript "Critical Temperature Prediction for a Superconductor: A Variational Bayesian Neural Network Approach".
 
 ===================================================
 
