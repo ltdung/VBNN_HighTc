@@ -14,19 +14,6 @@ TensorFlow: https://www.tensorflow.org/install
 
 ZhuSuan Bayesian Deep Learning: https://zhusuan.readthedocs.io/en/latest/
 
-tensorflow>=1.13.0
-Sphinx>=1.7.1
-sphinx_rtd_theme
-sphinxcontrib-bibtex>=0.3.6
-coverage
-pep8
-matplotlib
-mock
-scipy
-progressbar2
-numpy>=1.14.0
-six
-
 II. Superconducting Material Database (SuperCon) from this page: https://supercon.nims.go.jp/index_en.html
 
 ===================================================
